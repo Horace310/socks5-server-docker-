@@ -1,4 +1,4 @@
-# go-socks5-proxy
+# go-socks5-proxy 用于Proxifiter代理
 
 ![Latest tag from master branch](https://github.com/serjs/socks5-server/workflows/Latest%20tag%20from%20master%20branch/badge.svg)
 
